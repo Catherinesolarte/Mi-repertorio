@@ -7,11 +7,14 @@ Permita realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre la t
 Vista del Diseño
 Aquí puedes ver la imagen del diseño que se utilizó como referencia:
 
-repertorio
+![Captura de pantalla 2025-04-02 200235](https://github.com/user-attachments/assets/9902555e-bb18-465e-b0fc-49876b35e694)
 
-repertorio2
 
-repertorio3
+![Captura de pantalla 2025-04-02 200319](https://github.com/user-attachments/assets/656681f1-2619-43f6-96f3-db24b3f14fbb)
+
+
+![Captura de pantalla 2025-04-02 200354](https://github.com/user-attachments/assets/8da7ad8e-6ed7-46c5-a910-6103f6997571)
+
 
 Requerimientos
 Ruta POST /cancion:
